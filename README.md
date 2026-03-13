@@ -1,5 +1,5 @@
 # fair-waybar
-💫 My own Waybar configuration, which includes almost all useful modules you need for everyday Linux use.
+💫 My personal Waybar configuration with most useful modules for everyday Linux use.  
 
 ![alt text](https://github.com/ashxj/fair-waybar/blob/main/screenshots/2026-03-13-224409_hyprshot.png)
 
