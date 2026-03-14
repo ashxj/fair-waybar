@@ -27,6 +27,7 @@ window#waybar {
 #custom-sep-right-b,
 #custom-sep-right-c,
 #window,
+#mpris,
 #clock,
 #cpu,
 #memory,
@@ -103,6 +104,19 @@ window#waybar {
 
 #window.empty {
   color: rgba(151, 163, 182, 0.45);
+}
+
+#mpris {
+  color: #a7b4c7;
+  font-weight: 700;
+  font-size: 11px;
+  transition: color 240ms ease, background-color 120ms ease;
+}
+
+#mpris.paused,
+#mpris.stopped {
+  color: rgba(151, 163, 182, 0.55);
+  transition: color 240ms ease, background-color 120ms ease;
 }
 
 #clock.time {

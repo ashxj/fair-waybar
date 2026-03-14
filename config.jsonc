@@ -8,7 +8,9 @@
     "custom/logo",
     "hyprland/workspaces",
     "custom/sep-left",
-    "hyprland/window"
+    "hyprland/window",
+    "custom/sep-left",
+    "mpris"
   ],
   "modules-center": [
     "clock#time",
@@ -79,6 +81,14 @@
       "(.*) - bash": "$1"
     },
     "max-length": 48
+  },
+  "mpris": {
+    "format": "  {dynamic}",
+    "format-paused": " {dynamic}",
+    "dynamic-len": 36,
+    "interval": 1,
+    "max-length": 48,
+    "tooltip": false
   },
   "clock#time": {
     "interval": 1,
