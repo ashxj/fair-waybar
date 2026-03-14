@@ -1,12 +1,13 @@
 # fair-waybar
 💫 My personal Waybar configuration with most useful modules for everyday Linux use.  
 
-![alt text](https://github.com/ashxj/fair-waybar/blob/main/screenshots/2026-03-13-224409_hyprshot.png)
+![alt text](https://github.com/ashxj/fair-waybar/blob/main/screenshots/pewview.png)
 
 My configuration include:  
  ~ custom logo  
  ~ workspaces  
  ~ active window name  
+ ~ music information module  
  ~ time & date  
  ~ cpu & memory usage, temperature   
  ~ network name  
