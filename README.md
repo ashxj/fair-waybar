@@ -1,7 +1,7 @@
 # fair-waybar
 💫 My personal Waybar configuration with most useful modules for everyday Linux use.  
 
-![alt text](https://github.com/ashxj/fair-waybar/blob/main/screenshots/pewview.png)
+![alt text](https://raw.githubusercontent.com/ashxj/fair-waybar/refs/heads/main/screenshots/preview.png)
 
 My configuration include:  
  ~ custom logo  
